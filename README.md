@@ -15,7 +15,7 @@
 
 ## 👩‍💻 Projeto
 
-[Feedback Widget](https://ignews.vercel.app/) é um projeto criado na [Rocketseat](https://rocketseat.com.br/) durante a NLW Return.
+[Feedback Widget](https://nlw-return-web-cyan.vercel.app/) é um projeto criado na [Rocketseat](https://rocketseat.com.br/) durante a NLW Return.
 
 Neste projeto você pode enviar feedbacks de três diferentes tipos: problema, ideia ou bug. <br />
 Onde você pode retirar um print da sua tela e enviar junto ao mesmo.
